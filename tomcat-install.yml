@@ -3,5 +3,5 @@
   tasks:
   - name: Create a User
     user:
-      name: user
+      name: mounika
       password: password
