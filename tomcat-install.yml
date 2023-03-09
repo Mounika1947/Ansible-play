@@ -3,6 +3,5 @@
   tasks:
   - name: Create a User
     user:
-      name: user1
-      state: present
+      name: user
       password: password
